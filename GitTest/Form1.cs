@@ -25,6 +25,11 @@ namespace GitTest
             MessageBox.Show("Dev changes by Asim");
             MessageBox.Show("Dev changes by Ahmed");
 
+
+            MessageBox.Show("Release changes by Hassan");
+            MessageBox.Show("Release changes by Fizzah");
+            MessageBox.Show("Release changes by Rizwan");
+
         }
     }
 }
