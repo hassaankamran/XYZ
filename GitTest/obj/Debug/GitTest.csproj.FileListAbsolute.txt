@@ -7,3 +7,6 @@ E:\Working Folder\Training\GitTest\GitTest\obj\Debug\GitTest.Properties.Resource
 E:\Working Folder\Training\GitTest\GitTest\obj\Debug\GitTest.csproj.GenerateResource.Cache
 E:\Working Folder\Training\GitTest\GitTest\obj\Debug\GitTest.exe
 E:\Working Folder\Training\GitTest\GitTest\obj\Debug\GitTest.pdb
+E:\Working Folder\Training\Branches\Dev1\XYZ\GitTest\bin\Debug\GitTest.exe.config
+E:\Working Folder\Training\Branches\Dev1\XYZ\GitTest\obj\Debug\GitTest.exe
+E:\Working Folder\Training\Branches\Dev1\XYZ\GitTest\obj\Debug\GitTest.pdb
